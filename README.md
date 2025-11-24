@@ -343,7 +343,7 @@ a.	Pola Design Creational
 Berikut contoh code penerapan menggunakan php :
 <!-- absensiHandler.php -->
 <?php
-
+.
 interface AbsensiHandler {
     // Setiap handler harus dapat memproses permintaan utamanya
     public function handleRequest(array $data): string; 
