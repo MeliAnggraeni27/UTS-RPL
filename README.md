@@ -82,8 +82,6 @@ Fungsi cetak laporan absensi merupakan kelanjutan penting (<<Include>>) dari mel
 Fungsi kelola data siswa dan kelas merupakan tanggung jawab utama Admin dan Staff/Guru, yang melibatkan penambahan, perubahan, atau penghapusan data dasar akademik. Terakhir, fungsi kelola pengaturan sistem adalah tugas eksklusif yang dikerjakan oleh Admin dan Kepala Sekolah, yang mencakup konfigurasi dan administrasi backend sistem secara keseluruhan.
 
 b.	Class diagram
- 
-![alt text](https://github.com/MeliAnggraeni27/UTS-RPL/blob/main/class%20diagram%20rpl.jpg?raw=true)
 
 Implementasi
 
