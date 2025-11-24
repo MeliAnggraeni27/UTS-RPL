@@ -88,6 +88,12 @@ Implementasi
 a.	Pola Design Creational
 1.	Factory Method adalah salah satu Creational Design Pattern dalam pemrograman berorientasi objek (OOP) yang bertujuan untuk membuat objek tanpa harus menentukan secara eksplisit kelas objek mana yang akan dibuat.
 Berikut contoh code penerapan menggunakan php :
+
+
+
+
+
+
 <!-- absensiHandler.php -->
 <?php
 
