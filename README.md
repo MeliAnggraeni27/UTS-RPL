@@ -253,8 +253,13 @@ b.	Dependency Injection
 Dependency Injection (DI) adalah sebuah prinsip desain software yang bertujuan untuk membuat kode lebih decoupled (tidak terlalu terikat) dan lebih mudah diuji (testable).
                        Evaluasi dan kreasi
 
+
+
 					   
   ![alt text](https://github.com/MeliAnggraeni27/UTS-RPL/blob/main/siswa%20drawio.png?raw=true)
+
+
+
 
 
 Evaluasi Kualitas Desain
