@@ -252,7 +252,8 @@ class PDFLaporanBuilder implements LaporanBuilder {
 b.	Dependency Injection 
 Dependency Injection (DI) adalah sebuah prinsip desain software yang bertujuan untuk membuat kode lebih decoupled (tidak terlalu terikat) dan lebih mudah diuji (testable).
                        Evaluasi dan kreasi
-  ![alt text](https://github.com/MeliAnggraeni27/UTS-RPL/blob/main/siswa%20drawio.png?raw=true)
+  ![alt text](https://github.com/MeliAnggraeni27/UTS-RPL/blob/main/class%20diagram%20rpl.jpg?raw=true)
+
 Evaluasi Kualitas Desain
 Activity Diagram - Proses Absensi Siswa Berbasis Web menggambarkan alur kerja yang logis dan terstruktur. Desain ini menunjuakkan kualitas yang baik dalam aspek Maintainability (kemudahan pemeliharaan) dan Reusability (kemampuan pakai ulang) untuk proses absensi digital.
 Maintainability (Kemudahan Pemeliharaan): Baik
